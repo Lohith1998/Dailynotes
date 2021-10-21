@@ -1,1 +1,3 @@
-Jenkins stopped suddenly after 12 am , (created users and some basic pipelines )
+  Jenkins stopped suddenly after 12 am , (created users and some basic pipelines )
+kubectl get pods -n jenkins
+kubectl logs <> -n jenkins 
